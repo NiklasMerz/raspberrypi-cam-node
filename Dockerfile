@@ -1,4 +1,4 @@
-niklasmerz/raspberrypi-node-qemu
+FROM niklasmerz/raspberrypi-node-qemu
 MAINTAINER NiklasMerz
 
 RUN [ "cross-build-start" ]
